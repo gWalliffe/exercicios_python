@@ -2,7 +2,7 @@
 name = "exercicios-python"
 version = "0.1.0"
 description = ""
-authors = ["gwalliffe <gleyson.souzags@gmail.com>"]
+authors = ["gwalliffe"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
