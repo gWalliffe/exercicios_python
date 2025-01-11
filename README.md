@@ -19,3 +19,6 @@
     - Else
     - Elif
 
+3) Laços de repetição
+    - For
+    - While 
