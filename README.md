@@ -21,4 +21,9 @@
 
 3) Laços de repetição
     - For
-    - While 
+    - While
+
+4) Lista e Dicionários
+    - Manipulação de listas
+    - Leituras e tratamento
+    - Funções com Listas
