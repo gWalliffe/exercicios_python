@@ -27,3 +27,6 @@
     - Manipulação de listas
     - Leituras e tratamento
     - Funções com Listas
+
+5) Exercicios Numpy
+
