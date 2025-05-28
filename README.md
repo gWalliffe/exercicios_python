@@ -28,5 +28,8 @@
     - Leituras e tratamento
     - Funções com Listas
 
-5) Exercicios Numpy
+5) Numpy
+    - Fixação e Exercicios
 
+6) Pandas
+    - Fixação e Exercicio
