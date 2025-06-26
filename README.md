@@ -24,7 +24,7 @@
     - While
 
 4) Lista e Dicionários
-    - Manipulação de listas
+    - Manipulação de listas, series e dicionarios
     - Leituras e tratamento
     - Funções com Listas
 
@@ -32,4 +32,4 @@
     - Fixação e Exercicios
 
 6) Pandas
-    - Fixação e Exercicio
+    - Fixação e Exercicios
